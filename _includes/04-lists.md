@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] element1
+- [ ] element2
+- [ ] element3
